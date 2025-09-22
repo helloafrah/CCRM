@@ -49,7 +49,7 @@ java -cp bin Main
 
 ### ⚡ Java Platforms Comparison
 
-<img width="955" height="304" alt="Screenshot 2025-09-22 211757" src="https://github.com/user-attachments/assets/761bb3d6-0e74-48bc-9046-7619861f84f4" />
+<img width="500" height="200" alt="Screenshot 2025-09-22 211757" src="https://github.com/user-attachments/assets/761bb3d6-0e74-48bc-9046-7619861f84f4" />
 
 
 ### 🏗️ Java Architecture
@@ -99,7 +99,7 @@ Main class: Main
 Apply and Run
 
 ## 📊 Syllabus Topic Mapping
-<img width="785" height="571" alt="Screenshot 2025-09-22 221725" src="https://github.com/user-attachments/assets/4fc0303f-0d1f-4d05-ba1a-10b5e3da86e3" />
+<img width="600" height="300" alt="Screenshot 2025-09-22 221725" src="https://github.com/user-attachments/assets/4fc0303f-0d1f-4d05-ba1a-10b5e3da86e3" />
 
 ### 📁 Project Structure
 CCRM/\
