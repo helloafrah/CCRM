@@ -1,0 +1,4 @@
+id,regNo,fullName,email,status,enrollmentDate
+S003,2023003,Robert Johnson,robert@example.com,ACTIVE,2025-09-22
+S001,2023001,John Doe,john@example.com,ACTIVE,2025-09-22
+S002,2023002,Jane Smith,jane@example.com,ACTIVE,2025-09-22
